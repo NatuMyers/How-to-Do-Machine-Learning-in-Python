@@ -2,7 +2,7 @@
 
 This code is from github.com/natumyers
 
-It uses machine learning to create a classifier for the classical iris data set.
+It uses machine learning to create a classifier for the classical iris data set. https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 Learned from
 https://www.youtube.com/watch?v=2FOXR16mLow
