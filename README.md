@@ -4,7 +4,7 @@ Learned from
 https://www.youtube.com/watch?v=2FOXR16mLow
 
 ### Before anything, install: 
-
+ 
 Follow the install instructions for TensorFlow here:
 https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#pip-installation
 
