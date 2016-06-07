@@ -1,5 +1,9 @@
 # How-to-Do-Machine-Learning-in-Python
 
+This code is from github.com/natumyers
+
+It uses machine learning to classify the classical iris data set.
+
 Learned from
 https://www.youtube.com/watch?v=2FOXR16mLow
 
